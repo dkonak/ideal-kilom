@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="zayıf">#4CAF50</color>
+    <color name="ideal">#9C27B0</color>
+    <color name="normalden_fazla">#3F51B5</color>
+    <color name="fazla_kilolu">#FF7A22</color>
+    <color name="obez">#920C10</color>
+    <color name="doktor_tedavisi">#767E76</color>
+</resources>

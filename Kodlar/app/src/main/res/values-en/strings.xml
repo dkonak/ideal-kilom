@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">İdeal-Kilom</string>
+    <string name="erkek">Male</string>
+    <string name="kadın">Female</string>
+    <string name="cinsiyet_tv">Gender</string>
+    <string name="boy_tv">Size</string>
+    <string name="kilo_tv">Weight</string>
+    <string name="idealkilo_tv">Ideal weight</string>
+    <string name="durum_tv">Status</string>
+    <string name="zayıf">Weak</string>
+    <string name="ideal">Ideal</string>
+    <string name="normalden_fazla">More than usual</string>
+    <string name="fazla_kilolu">Overweight</string>
+    <string name="obez">Obese</string>
+    <string name="doktor_tedavisi">Doctor treatment</string>
+</resources>
